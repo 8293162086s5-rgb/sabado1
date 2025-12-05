@@ -160,12 +160,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CapaNegocios\CapaNegocios.csproj">
-      <Project>{5f80a841-b3e9-45e1-8340-7fce5129e5ba}</Project>
-      <Name>CapaNegocios</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\images %281%29.jpg" />
   </ItemGroup>
   <ItemGroup>
